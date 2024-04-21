@@ -11,7 +11,7 @@ Colégio:
 NRE:
 
 Link do projeto na Vercel
-https://agrinho-ceaa.vercel.app/
+https://agrinho-2024.vercel.app/
 
 link do projeto no GitHub Pages
 https://professorrichardson.github.io/agrinho-ceaa/
