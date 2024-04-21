@@ -1,8 +1,13 @@
 # agrinho-2024
+
 Projeto agrinho 2024
+
 Nome do aluno:
+
 Nome do Professor:
+
 Colégio:
+
 NRE:
 
 Link do projeto na Vercel
