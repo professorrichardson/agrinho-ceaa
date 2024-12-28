@@ -18,3 +18,4 @@ https://professorrichardson.github.io/agrinho-ceaa/
 
 Referencias: 
 Textos e imagens feitas po IA: https://www.luzia.com/br acessado em 21/04/2024
+Finalizado#
